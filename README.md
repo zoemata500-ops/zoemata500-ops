@@ -1,6 +1,6 @@
 ## Hi I'm Pablo Zoe Mata 👋
 
-Curious by nature, engineer by training. I studied Industrial Production Engineering and now I'm diving into the world of software — frontend, backend, and everything in between. Building with JavaScript, HTML & CSS while expanding my stack.
+Curious by nature, engineer by training. I studied Production Engineering and now I'm diving into the world of software — frontend, backend, and everything in between. Building with JavaScript, HTML & CSS while expanding my stack.
 
 ## SKILLS
 Programming 
