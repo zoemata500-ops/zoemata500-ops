@@ -1,4 +1,4 @@
-## Hola soy Pablo Zoe Mata 👋
+## Hola soy Pablo Mata Nuñez 👋
 
 Desarrollador junior con título de Ingeniería en Producción Industrial (UAEMEX). Construí y desplegué tarjetasIngles, una aplicación
 web con API REST en Node.js, Express y PostgreSQL. Cuento con 3 años de experiencia en ventas, planeación de pedidos y
