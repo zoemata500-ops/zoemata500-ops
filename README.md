@@ -1,6 +1,9 @@
-## Hi I'm Pablo Zoe Mata 👋
+## Hola soy Pablo Zoe Mata 👋
 
-Curious by nature, engineer by training. I studied Production Engineering and now I'm diving into the world of software — frontend, backend, and everything in between. Building with JavaScript, HTML & CSS while expanding my stack.
+Desarrollador junior con título de Ingeniería en Producción Industrial (UAEMEX). Construí y desplegué tarjetasIngles, una aplicación
+web con API REST en Node.js, Express y PostgreSQL. Cuento con 3 años de experiencia en ventas, planeación de pedidos y
+producción, trabajando con indicadores y coordinando equipos y áreas. Busco mi primera posición como desarrollador backend o
+full stack.
 
 ## SKILLS
 Programming 
